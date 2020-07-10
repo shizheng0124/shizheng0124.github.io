@@ -18,29 +18,27 @@ author_profile: true
 
 Selected Journal Papers
 ===
-1. Hong Wang, Chen Liu, Zheng Shi, Yaru Fu, and Rongfang Song, On Power Minimization for IRS-Aided Downlink NOMA Systems. IEEE Wireless Communications Letters. 2020.
-2. Guanghua Yang, Huan Zhang, Zheng Shi, Shaodan Ma, and Hong Wang. Asymptotic Outage Analysis of Spatially Correlated Rayleigh MIMO Channels,  IEEE Transactions on Broadcasting, 2020. [corresponding Author]
-3. Zheng Shi, Hong Wang, Yaru Fu, Guanghua Yang, Shaodan Ma, Fen Hou, and Theodoros A. Tsiftsis, “Zero-Forcing Based Downlink Virtual MIMO-NOMA Communications in IoT Networks,” IEEE Internet of Things Journal, vol. 7, no. 4, pp. 2716–2737, Apr. 2020.
-4. Zheng Shi, Chenmeng Zhang, Yaru Fu, Hong Wang, Guanghua Yang, and Shaodan Ma. Achievable Diversity Order of HARQ-Aided Downlink NOMA Systems, IEEE Transactions on Vehicular Technology, vol. 69, no. 1, pp. 471-487, Jan. 2020.
-5. Zheng Shi, Theodoros A. Tsiftsis, Weiqiang Tan, Guanghua Yang, Shaodan Ma, and Mohamed-Slim Alouini. Effective Capacity for Renewal Service Processes with Applications to HARQ Systems, IEEE Transactions on Communications, vol. 67, no.9, pp.6556-6571, Sep. 2019.
-6. Hong Wang, Yaru Fu, Rongfang Song, Zheng Shi and Xinghua Sun. Power Minimization Precoding in Uplink Multi-Antenna NOMA Systems With Jamming, IEEE Transactions on Green Communications and Networking, vol. 3, no. 3, pp. 591-602, Sep. 2019. 
-7. Yaru Fu, Ye Liu, Hong Wang, Zheng Shi. Mode Selection Between Index Coding and Superposition Coding in Cache-based NOMA Networks. IEEE Communications Letters. Vol. 23, no. 3, pp. 478-481. Mar. 2019. [Co-corresponding Author]
-8. Weiqiang Tan, Shidang Li, Chunlong He, Zheng Shi. Achievable Rate of Based-UAV Communication with Uniform Circular Arrays in Ricean Fading. Physical Communication, vol. 32, pp.185-191, Feb. 2019.
-9. Weiqiang Tan, Wei Huang, Xi Yang, Zheng Shi, Wen Liu and Lisheng Fan. Multiuser Precoding Scheme and Achievable Rate Analysis for Massive MIMO System, EURASIP Journal on Wireless Communications and Networking, 210, pp.1-12, Apr. 2018.
-10. Zheng Shi, Liyang Wang, Shaodan Ma, Guanghua Yang, and Yao Yao, "Goodput Maximization of HARQ-IR over Arbitrarily Correlated Rician Fading Channels," IEEE Access, vol. 6, pp. 28903-28911, Jun. 2018.
-11. Zheng Shi, Shaodan Ma, Hesham ElSawy, Guanghua Yang and Mohamed-Slim Alouini, "Cooperative HARQ Assisted NOMA Scheme in Large-scale D2D Networks," IEEE Transactions on Communications. vol. 66, no. 9, pp. 4286-4302, Sep. 2018. 
-12. Zheng Shi, Shaodan Ma, Guanghua Yang, and Mohamed-Slim Alouini, " Energy-Efficient Optimization for HARQ Schemes over Time-Correlated Fading Channels," IEEE Transactions on Vehicular Technology, vol. 67, no. 6, pp. 4939-4953, Jun. 2018.
-13. Zheng Shi, Shaodan Ma, Guanghua Yang, Kam-Weng Tam, and Minghua Xia, "Asymptotic Outage Analysis of HARQ-IR over Time-Correlated Nakagami-m Fading Channels," IEEE Transactions on Wireless Communications, vol.16, no.9, pp.6119–6134, Sep. 2017.
-14. Zheng Shi, Haichuan Ding, Shaodan Ma, Kam-Weng Tam, and Su Pan,“Inverse Moment Matching Based Analysis of Cooperative HARQ-IR over Time-Correlated Nakagami Fading Channels,” IEEE Transactions on Vehicular Technology, vol.66, no.5, pp.3812–3828, May 2017.
-15. Haichuan Ding, Zheng Shi, Shaodan Ma, and Chengwen Xing, “On the Performance of HARQ-IR over Nakagami-m Fading Channels in Mobile Ad Hoc Networks,” IEEE Transactions on Vehicular Technology, vol.66, no.5, pp.3913-3929, May 2017.
-16. Zheng Shi, Haichuan Ding, Shaodan Ma, and Kam-Weng Tam, “Analysis of HARQ-IR over Time-Correlated Rayleigh Fading Channels,” IEEE Transactions on Wireless Communications, vol.14, no.12, pp.7096–7109, Dec. 2015.
+* Hong Wang, Chen Liu, Zheng Shi, Yaru Fu, and Rongfang Song, On Power Minimization for IRS-Aided Downlink NOMA Systems. IEEE Wireless Communications Letters. 2020.
+* Guanghua Yang, Huan Zhang, Zheng Shi, Shaodan Ma, and Hong Wang. Asymptotic Outage Analysis of Spatially Correlated Rayleigh MIMO Channels,  IEEE Transactions on Broadcasting, 2020. [corresponding Author]
+* Zheng Shi, Hong Wang, Yaru Fu, Guanghua Yang, Shaodan Ma, Fen Hou, and Theodoros A. Tsiftsis, “Zero-Forcing Based Downlink Virtual MIMO-NOMA Communications in IoT Networks,” IEEE Internet of Things Journal, vol. 7, no. 4, pp. 2716–2737, Apr. 2020.
+* Zheng Shi, Chenmeng Zhang, Yaru Fu, Hong Wang, Guanghua Yang, and Shaodan Ma. Achievable Diversity Order of HARQ-Aided Downlink NOMA Systems, IEEE Transactions on Vehicular Technology, vol. 69, no. 1, pp. 471-487, Jan. 2020.
+* Zheng Shi, Theodoros A. Tsiftsis, Weiqiang Tan, Guanghua Yang, Shaodan Ma, and Mohamed-Slim Alouini. Effective Capacity for Renewal Service Processes with Applications to HARQ Systems, IEEE Transactions on Communications, vol. 67, no.9, pp.6556-6571, Sep. 2019.
+* Hong Wang, Yaru Fu, Rongfang Song, Zheng Shi and Xinghua Sun. Power Minimization Precoding in Uplink Multi-Antenna NOMA Systems With Jamming, IEEE Transactions on Green Communications and Networking, vol. 3, no. 3, pp. 591-602, Sep. 2019. 
+* Yaru Fu, Ye Liu, Hong Wang, Zheng Shi. Mode Selection Between Index Coding and Superposition Coding in Cache-based NOMA Networks. IEEE Communications Letters. Vol. 23, no. 3, pp. 478-481. Mar. 2019. [Co-corresponding Author]
+* Zheng Shi, Liyang Wang, Shaodan Ma, Guanghua Yang, and Yao Yao, "Goodput Maximization of HARQ-IR over Arbitrarily Correlated Rician Fading Channels," IEEE Access, vol. 6, pp. 28903-28911, Jun. 2018.
+* Zheng Shi, Shaodan Ma, Hesham ElSawy, Guanghua Yang and Mohamed-Slim Alouini, "Cooperative HARQ Assisted NOMA Scheme in Large-scale D2D Networks," IEEE Transactions on Communications. vol. 66, no. 9, pp. 4286-4302, Sep. 2018. 
+* Zheng Shi, Shaodan Ma, Guanghua Yang, and Mohamed-Slim Alouini, " Energy-Efficient Optimization for HARQ Schemes over Time-Correlated Fading Channels," IEEE Transactions on Vehicular Technology, vol. 67, no. 6, pp. 4939-4953, Jun. 2018.
+* Zheng Shi, Shaodan Ma, Guanghua Yang, Kam-Weng Tam, and Minghua Xia, "Asymptotic Outage Analysis of HARQ-IR over Time-Correlated Nakagami-m Fading Channels," IEEE Transactions on Wireless Communications, vol.16, no.9, pp.6119–6134, Sep. 2017.
+* Zheng Shi, Haichuan Ding, Shaodan Ma, Kam-Weng Tam, and Su Pan,“Inverse Moment Matching Based Analysis of Cooperative HARQ-IR over Time-Correlated Nakagami Fading Channels,” IEEE Transactions on Vehicular Technology, vol.66, no.5, pp.3812–3828, May 2017.
+* Haichuan Ding, Zheng Shi, Shaodan Ma, and Chengwen Xing, “On the Performance of HARQ-IR over Nakagami-m Fading Channels in Mobile Ad Hoc Networks,” IEEE Transactions on Vehicular Technology, vol.66, no.5, pp.3913-3929, May 2017.
+* Zheng Shi, Haichuan Ding, Shaodan Ma, and Kam-Weng Tam, “Analysis of HARQ-IR over Time-Correlated Rayleigh Fading Channels,” IEEE Transactions on Wireless Communications, vol.14, no.12, pp.7096–7109, Dec. 2015.
 
 
 
 Selected Conference Papers
 ===
-1. Huan Zhang,  Guanghua Yang, Zheng Shi, Shaodan Ma, and Hong Wang. Outage Performance Analysis of Full-Correlated Rayleigh MIMO Channels. To be submitted to IEEE/CIC ICCC 2020, pp.1-6.[corresponding Author]
-2. Zheng Shi, Chenmeng Zhang, Yaru Fu, Hong Wang, Guanghua Yang, and Shaodan Ma. Diversity Analysis of HARQ-CC-Aided NOMA. In Proc. IEEE Global Communications Conference (GLOBECOM’19), Dec. 2019.
-3. Zheng Shi, Theodoros Tsiftsis, Weiqiang Tan, Guanghua Yang, Shaodan Ma, and Mohamed-Slim Alouini. Effective Capacity Analysis for VR-HARQ Systems, accepted by IEEE/CIC International Conference on Communications in China (IEEE/CIC ICCC’19)，Aug. 2019.
-4. Hong Wang, Yaru Fu, Zheng Shi, Rongfang Song. Fractional Power Control for Small Cell Uplinks With Opportunistic NOMA Transmissions. In Proc. International Conference on Communications (ICC’2019).
-5. Zheng Shi, Huan Zhang, Shenke Zhong, Guanghua Yang, Xinrong Ye, and Shaodan Ma, "On the Performance of Variable-Rate HARQ-IR over Beckmann Fading Channels." In Proc. International Conference on Wireless Communications and Signal Processing (WCSP’18), Oct. 2018, pp.1-6. 
+* Huan Zhang,  Guanghua Yang, Zheng Shi, Shaodan Ma, and Hong Wang. Outage Performance Analysis of Full-Correlated Rayleigh MIMO Channels. To be submitted to IEEE/CIC ICCC 2020, pp.1-6.[corresponding Author]
+* Zheng Shi, Chenmeng Zhang, Yaru Fu, Hong Wang, Guanghua Yang, and Shaodan Ma. Diversity Analysis of HARQ-CC-Aided NOMA. In Proc. IEEE Global Communications Conference (GLOBECOM’19), Dec. 2019.
+* Zheng Shi, Theodoros Tsiftsis, Weiqiang Tan, Guanghua Yang, Shaodan Ma, and Mohamed-Slim Alouini. Effective Capacity Analysis for VR-HARQ Systems, accepted by IEEE/CIC International Conference on Communications in China (IEEE/CIC ICCC’19)，Aug. 2019.
+* Hong Wang, Yaru Fu, Zheng Shi, Rongfang Song. Fractional Power Control for Small Cell Uplinks With Opportunistic NOMA Transmissions. In Proc. International Conference on Communications (ICC’2019).
+* Zheng Shi, Huan Zhang, Shenke Zhong, Guanghua Yang, Xinrong Ye, and Shaodan Ma, "On the Performance of Variable-Rate HARQ-IR over Beckmann Fading Channels." In Proc. International Conference on Wireless Communications and Signal Processing (WCSP’18), Oct. 2018, pp.1-6. 

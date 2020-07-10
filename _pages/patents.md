@@ -5,6 +5,5 @@ permalink: /Patents/
 author_profile: true
 ---
 
-. Patent 1
-
-. Patent 2
+1. Patent 1
+2. Patent 2

@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-* "Principle and Application of Sensor Network", "Principle and Application Experiment of Sensor Network"
-* "Modern Communication Principle", "Modern Communication Principle Experiment"
+* "Principle and Application of Sensor Network", "Lab of Principle and Application of Sensor Network"
+* "Modern Communication Principle", "Lab of Modern Communication Principle"
 * "RF Circuit Technology"
 * "Principles of Mobile Communication", "Principles of Mobile Communication Principles"
 * "Document Search"

@@ -17,11 +17,11 @@ Education
 Positions
 ======
 * Nov. 2020 ~ Present: Associate Professor
-  * Intelligent Science Systems and Engineering School
+  * The School of Intelligent Science Systems and Engineering
   * Jinan University(Zhuhai Campus) 
   
 * Sept. 2017 ~ Oct. 2019 : Assistant Professor
-  * Intelligent Science Systems and Engineering School
+  * The School of Intelligent Science Systems and Engineering
   * Jinan University(Zhuhai Campus)
   
 

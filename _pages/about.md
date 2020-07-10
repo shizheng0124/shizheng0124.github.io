@@ -1,10 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: "CV"
-permalink: /cv/
+excerpt: "About me"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Education

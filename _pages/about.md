@@ -25,3 +25,18 @@ Work experience
   * Jinan University(Zhuhai Campus)
   
 
+Visiting experience
+======
+* Sept. 2019 ~ Dec. 2019: Post-doctoral Fellow
+  * the State Key Laboratory of Internet of Things for Smart City
+  * University of Macau
+
+* Nov. 2018 ~ Dec. 2018: Visiting Scholar
+  * the Department of Electrical and Computer Engineering
+  * University of Macau
+  
+* Sept. 2016 ~ Feb. 2017: Visiting Student
+  * Communication Theory Lab
+  * King Abdullah University of Science and Technology
+  * Advisor: Mohamed-Slim Alouini
+

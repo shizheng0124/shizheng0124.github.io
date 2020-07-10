@@ -87,3 +87,16 @@ Conference Reviewer
 * IEEE Vehicular Technology Conference (VTC), etc.
 
 
+TPC Member
+------
+* The 16th International Conference on Mobility, Sensing and Networking (IEEE MSN 2020)
+* ComNet'2020 (The eighth International Conference on Communications and Networking 2020).
+* IEEE VTC2020-Spring (Transportation, Vehicular Electronics and Telematics)
+* IEEE ICC'20 - SAC-10 TI Track (2020 IEEE International Conference on Communications (ICC): SAC Tactile Internet Track).
+* IEEE ICC'19 - SAC-1 MWC Track (2019 IEEE International Conference on Communications (ICC): SAC Millimeter Wave Communications Track).
+
+Conference chair or co-chair
+------
+* IEEE ICNSC 2018 (15th IEEE International Conference on Networking, Sensing and Control), Publicity Chair.
+* The 2020 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC 2020), Publicity co-chair
+

@@ -10,7 +10,7 @@ author_profile: true
 * "Modern Communication Principle", "Lab of Modern Communication Principle"
 * "RF Circuit Technology"
 * "Principles of Mobile Communication", "Principles of Mobile Communication Principles"
-* "Document Search"
+* "Research Writting"
 
 <!--{% include base_path %}
 

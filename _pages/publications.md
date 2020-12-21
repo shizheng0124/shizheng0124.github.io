@@ -18,15 +18,21 @@ author_profile: true
 
 Under review
 ===
-* Yaru Fu, Hong Wang, Zheng Shi, and Tony Q. S. Quek. Scheduling Policies for Quantum Key Distribution Enabled Communication Networks. Submitted to IEEE Wireless Communications Letters. 2020.
-* Huan Zhang, Junjuan Feng, Zheng Shi, Shaodan Ma, and Guanghua Yang. Rate Maximization of Wireless Powered Cognitive Massive MIMO System. submitted to IEEE IoT Journal. 2020.
-* Hong Wang, Zheng Shi, Yaru Fu, Youhong Feng, and Rongfang Song. On the Design of High Power Efficiency Uplink MIMO-NOMA Systems: A STBC and Joint Detection Perspective, submitted to IEEE Transactions on Vehicular Technology. 2020.
-* Hong Wang, Zheng Shi, Shu-Hung Leung, Yaru Fu, and Rongfang Song. Outage Performance for NOMA-Aided Dense Small Cell Networks With HARQ, submitted to IEEE Transactions on Vehicular Technology, 2020.
-* Zheng Shi, Hong Wang, Yaru Fu, Guanghua Yang, Shaodan Ma, and Xinrong Ye. On MIMO-NOMA Enhanced Small Cell Networks With Imperfect Channel-State Information, submitted to IEEE Transactions on Communications. 2020.
-
+* Huan Zhang, Shaodan Ma, Zheng Shi, Xin Zhao, and Guanghua Yang. Sum-Rate Maximization of RIS-Aided Multi-User MIMO Systems With Statistical CSI. To be submitted to TWC.
+* Zheng Shi, Hong Wang, Yaru Fu, Guanghua Yang, Shaodan Ma, and Feifei Gao. Outage Performance of Reconfigurable Intelligent Surface Aided MIMO Systems. To be submitted to TWC.
+* Yaru Fu; Xiaolong Yang; Peng Yang; Angus K. Y. Wong; Zheng Shi; Hong Wang; Tony Q. S. Quek. Energy-efficient Offloading and Resource Allocation for Mobile Edge Computing Enabled Mission-Critical Internet-of-Things Systems. Invited paper. submitted to EURASIP Journal on Wireless Communications and Networking.
+* Yaru Fu, Quan Yu, Angus K. Y. Wong, Zheng Shi, Hong Wang, and Tony Q. S. Quek. Rethinking the Utilization of Network Edges: Contents Coding, Caching and Recommendation. submitted to TWC. 2020.
+* Qi Chao, Huan Zhang, Zheng Shi, Hong Wang, Yaru Fu, Guanghua Yang, and Shaodan Ma. Outage Performance Analysis of HARQ-Aided Multi-RIS Systems. submitted to WCNC 2021.[Corresponding Author]
+* Zheng Shi, Huan Zhang, Hong Wang, Yaru Fu, Guanghua Yang, Shaodan Ma, and Xinrong Ye. Performance of Short Packet Communications over Generalized Cascaded Fading Channels. submitted to IEEE TWC. 2020.
 
 Selected Journal Papers
 ===
+* Zheng Shi, Hong Wang, Yaru Fu, Guanghua Yang, Shaodan Ma, and Xinrong Ye. Outage Performance and Optimal Design of MIMO-NOMA Enhanced Small Cell Networks With Imperfect Channel-State Information, China Communications. 2020.
+* Hong Wang, Zheng Shi, Yaru Fu, Youhong Feng, and Rongfang Song. On the Design of High Power Efficiency Uplink MIMO-NOMA Systems: A STBC and Joint Detection Perspective, IEEE TVT. 2020.
+* Hong Wang, Zheng Shi, Yaru Fu, and Rongfang Song. Power Minimization for Two-Cell IRS-Aided NOMA Systems With Joint Detection. IEEE Communications Letters. 2020.
+* Huan Zhang, Junjuan Feng, Zheng Shi, Shaodan Ma, and Guanghua Yang. Rate Maximization of Wireless Powered Cognitive Massive MIMO System. IEEE IoT Journal. 2020.
+* Hong Wang, Zheng Shi, Yaru Fu, and Rongfang Song. Outage Performance for NOMA-Aided Small Cell Networks With HARQ, IEEE Wireless Communications Letters, 2020.
+* Yaru Fu, Yang Hong, Tony Q. S. Quek, Hong Wang, Zheng Shi. Scheduling Policies for Quantum Key Distribution Enabled Communication Networks. IEEE Wireless Communications Letters. 2020.
 * Hong Wang, Chen Liu, Zheng Shi, Yaru Fu, and Rongfang Song, On Power Minimization for IRS-Aided Downlink NOMA Systems. IEEE Wireless Communications Letters. 2020.
 * Guanghua Yang, Huan Zhang, Zheng Shi, Shaodan Ma, and Hong Wang. Asymptotic Outage Analysis of Spatially Correlated Rayleigh MIMO Channels,  IEEE Transactions on Broadcasting, 2020. [corresponding Author]
 * Zheng Shi, Hong Wang, Yaru Fu, Guanghua Yang, Shaodan Ma, Fen Hou, and Theodoros A. Tsiftsis, “Zero-Forcing Based Downlink Virtual MIMO-NOMA Communications in IoT Networks,” IEEE Internet of Things Journal, vol. 7, no. 4, pp. 2716–2737, Apr. 2020.

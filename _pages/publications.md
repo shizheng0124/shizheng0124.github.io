@@ -47,7 +47,9 @@ Selected Journal Papers
 * Zheng Shi, Haichuan Ding, Shaodan Ma, Kam-Weng Tam, and Su Pan,“Inverse Moment Matching Based Analysis of Cooperative HARQ-IR over Time-Correlated Nakagami Fading Channels,” IEEE Transactions on Vehicular Technology, vol.66, no.5, pp.3812–3828, May 2017.
 * Haichuan Ding, Zheng Shi, Shaodan Ma, and Chengwen Xing, “On the Performance of HARQ-IR over Nakagami-m Fading Channels in Mobile Ad Hoc Networks,” IEEE Transactions on Vehicular Technology, vol.66, no.5, pp.3913-3929, May 2017.
 * Zheng Shi, Haichuan Ding, Shaodan Ma, and Kam-Weng Tam, “Analysis of HARQ-IR over Time-Correlated Rayleigh Fading Channels,” IEEE Transactions on Wireless Communications, vol.14, no.12, pp.7096–7109, Dec. 2015.
-
+* Zheng Shi, Qi Zhu, “Throughput Analysis and Optimization Based on Mobility Analysis and Markov Process for Heterogeneous Wireless Networks,” Wireless personal communications, vol. 77, no. 2, pp.1091-1116, Jul. 2014.
+* Zheng Shi, Qi Zhu, “Radio resource management scheme for heterogeneous wireless networks based on access proportion optimization,” Journal of Communications and Networks, vol. 15, no. 5, pp.527-537, Oct. 2013.
+* Zheng Shi, Qi Zhu, Xiaorong Zhu, “Performance analysis of an improved common radio resource management algorithm based on load balance and service characteristics,” Wireless personal communications, vol. 71, no. 1, pp.317-338, Jul. 2013.
 
 
 Selected Conference Papers
